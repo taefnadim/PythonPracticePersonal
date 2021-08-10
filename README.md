@@ -1,10 +1,10 @@
 # PythonPracticePersonal
 
 
-Ignore all the files Except mylibrary2.py
+Ignore all the files Except TNlibrary.py
 
 
-in mylibrary2.py it works as:
+in TNlibrary.py it works as:
 
 1. User can add book
 2. User can see which book is lended to whom
